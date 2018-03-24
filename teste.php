@@ -1,1 +1,3 @@
 <?= "Aula git"; ?>
+
+<? php_info(); ?>
